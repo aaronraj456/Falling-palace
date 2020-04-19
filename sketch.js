@@ -37,7 +37,7 @@ function draw() {
   bodies3.display();
   bodies4.display();
   bodies5.display();
-  bodies6.display();
+  bodies6.display()
 
   drawSprites();
 }
